@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Innovate" max_length="40" name="x_697964_innovate_innovate" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Idea Implemented" max_length="40" name="idea_implemented" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="cost_savings" label="Idea type" max_length="40" name="idea_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cost Savings" value="cost_savings"/>

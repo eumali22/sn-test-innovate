@@ -4,55 +4,97 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-12 14:02:04</sys_created_on>
-            <sys_id>ad3ee3702fc10110d573b8e72799b631</sys_id>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>39eddc812f450110d573b8e72799b63b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-12 14:02:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-12 14:02:04</sys_created_on>
-            <sys_id>a53ee3702fc10110d573b8e72799b632</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-12 14:02:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-12 14:02:04</sys_created_on>
-            <sys_id>293ee3702fc10110d573b8e72799b632</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-12 14:02:04</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>idea_type</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-12 14:02:04</sys_created_on>
-            <sys_id>a93ee3702fc10110d573b8e72799b632</sys_id>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>b9eddc812f450110d573b8e72799b63b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-12 14:02:04</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>3deddc812f450110d573b8e72799b63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>bdeddc812f450110d573b8e72799b63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>31eddc812f450110d573b8e72799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>b1eddc812f450110d573b8e72799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:30:26</sys_created_on>
+            <sys_id>35eddc812f450110d573b8e72799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_697964_innovate_innovate" sys_domain="global" view="Default view">153ee3702fc10110d573b8e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:30:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
